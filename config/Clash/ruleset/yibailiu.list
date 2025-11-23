@@ -1,18 +1,19 @@
+## 影视数据库
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,themoviedb.org
+## 9kg
 DOMAIN-SUFFIX,nightalks.com
-DOMAIN-SUFFIX,fanmingming.com
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,patreonusercontent.com
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,1069boys.xyz
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,pythonhosted.org
-DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,gvdb.org
-DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,gayerdar.com
+DOMAIN-SUFFIX,1069boys.xyz
 DOMAIN-SUFFIX,stashdb.org
 DOMAIN-SUFFIX,javstash.org
+## 图床
+DOMAIN-SUFFIX,gifyu.com
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,fanmingming.com
+## 技术相关
+DOMAIN-SUFFIX,qichiyu.com
+## DOMAIN-SUFFIX,patreonusercontent.com
